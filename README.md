@@ -4,5 +4,5 @@
 Joint Simulation between Simulink and Adams
 
 git@github.com:ChenyangZhou/Cheetah-Robot.git
-
 ![image](http://github.com/ChenyangZhou/Cheetah-Robot/raw/master/etc/Robot.JPG)
+![image](http://github.com/ChenyangZhou/Cheetah-Robot/raw/master/etc/Scheme.jpg)
