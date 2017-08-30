@@ -3,5 +3,7 @@
 
 Joint Simulation between Simulink and Adams
 
+
+![image](https://github.com/ChenyangZhou/Cheetah-Robot/blob/master/etc/Scheme.jpg) ![image](https://github.com/ChenyangZhou/Cheetah-Robot/blob/master/etc/CompareReflex.jpg) ![image](https://github.com/ChenyangZhou/Cheetah-Robot/blob/master/etc/SideStepping.jpg)
+
 ![image](https://github.com/ChenyangZhou/Cheetah-Robot/blob/master/etc/Robot.JPG)
-![image](https://github.com/ChenyangZhou/Cheetah-Robot/blob/master/etc/Scheme.jpg) ![image](https://github.com/ChenyangZhou/Cheetah-Robot/blob/master/etc/CompareReflex.jpg)
